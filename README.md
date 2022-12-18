@@ -1,4 +1,4 @@
-### .env file contains the following:
+### .env file contains :
   * TOKEN
 
 To get your discord token
@@ -7,7 +7,7 @@ To get your discord token
  3. you need to click on the “Application” tab
 
 <p align="center">
-<img src="https://github.com/kina738/SHORT-REMINDER/blob/master/resources/Get-Discord-Token-Chrome-Application-Tab.png" alt="Get-Discord-Token-Chrome-Application-Tab" width="320" height="180"/>
+<img src="https://github.com/kina738/SHORT-REMINDER/blob/master/resources/Get-Discord-Token-Chrome-Application-Tab.png" alt="Get-Discord-Token-Chrome-Application-Tab"/>
 </p>
 
  4. On the left side of the panel, under Storage, expand the Local Storage option. Under this option, select discord.com.
@@ -16,7 +16,7 @@ To get your discord token
  To find your token, click on the Toggle Device Toolbar option on the top right of the developer tools panel.
 
 <p align="center">
-<img src="https://github.com/kina738/SHORT-REMINDER/blob/master/resources/How-To-Get-Discord-Token.png" alt="How-To-Get-Discord-Token" width="320" height="180"/>
+<img src="https://github.com/kina738/SHORT-REMINDER/blob/master/resources/How-To-Get-Discord-Token.png" alt="How-To-Get-Discord-Token"/>
 </p>
 
 Right-click the value on the right side, select edit value, then copy it then paste it on the `.env` file
